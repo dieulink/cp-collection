@@ -1,0 +1,3 @@
+# Tiệc cuối năm - Editorial
+
+Để xác định xem từ chuỗi treo trước cửa có thể tìm lại được chuỗi của Đạt và Hiếu không là một bài toán khó. Ta chỉ cần kiểm tra hai chuỗi của Đạt và Hiếu sau khi ghép lại có giống chuỗi được treo trước cửa không? Để làm điều này dễ dàng ta sẽ sắp xếp lại chuỗi ghép của Đạt và Hiếu và chuỗi được treo trước cửa. Nếu hai chuỗi sau khi sắp xếp giống nhau thì chứng tỏ ta sẽ tìm được còn ngược lại thì in `NO`.

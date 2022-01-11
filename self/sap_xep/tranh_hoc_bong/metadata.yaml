@@ -1,0 +1,16 @@
+code: tranh_hoc_bong
+slug: ''
+tags:
+  - greedy
+  - sortings
+difficulty: 4.71391848665697
+experience_gain: 100
+statement_format: markdown
+statement_language: vi
+statement_translations: []
+limit_time_ms: 1000
+limit_memory_mb: 256
+testcase_format: ucode
+src_name: Vanya and Exams
+src_id: 492/C
+src_url: https://codeforces.com/problemset/problem/492/C

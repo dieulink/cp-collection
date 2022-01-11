@@ -1,0 +1,19 @@
+code: tap_hop_diem
+slug: ''
+tags:
+  - data structures
+  - dp
+  - greedy
+  - implementation
+  - sortings
+difficulty: 5.8069868306857595
+experience_gain: 100
+statement_format: markdown
+statement_language: vi
+statement_translations: []
+limit_time_ms: 2000
+limit_memory_mb: 256
+testcase_format: ucode
+src_name: Clique Problem
+src_id: 527/D
+src_url: https://codeforces.com/problemset/problem/527/D

@@ -1,0 +1,16 @@
+code: day_khac_khong
+slug: ''
+tags:
+  - math
+  - sortings
+difficulty: 3.095736381507193
+experience_gain: 100
+statement_format: markdown
+statement_language: vi
+statement_translations: []
+limit_time_ms: 1000
+limit_memory_mb: 256
+testcase_format: ucode
+src_name: Avoiding Zero
+src_id: 1427/A
+src_url: https://codeforces.com/problemset/problem/1427/A

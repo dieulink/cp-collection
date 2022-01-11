@@ -1,0 +1,17 @@
+code: tiec_cuoi_nam
+slug: ''
+tags:
+  - implementation
+  - sortings
+  - strings
+difficulty: 2.7213908124938904
+experience_gain: 100
+statement_format: markdown
+statement_language: vi
+statement_translations: []
+limit_time_ms: 2000
+limit_memory_mb: 256
+testcase_format: ucode
+src_name: Amusing Joke
+src_id: 141/A
+src_url: https://codeforces.com/problemset/problem/141/A
