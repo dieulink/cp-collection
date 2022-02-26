@@ -1,2 +1,0 @@
-# Biến đổi số - Editorial
-
