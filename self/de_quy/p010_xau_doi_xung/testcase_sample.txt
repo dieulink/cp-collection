@@ -1,9 +1,0 @@
-### Test #01
-3
-abba
-ucode
-level
----
-YES
-NO
-YES

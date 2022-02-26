@@ -1,1 +1,0 @@
-# Số nguồn gốc - Editorial

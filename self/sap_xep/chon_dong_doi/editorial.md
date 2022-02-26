@@ -1,2 +1,0 @@
-# Chọn đồng đội - Editorial
-
